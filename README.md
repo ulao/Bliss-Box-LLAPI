@@ -11,5 +11,5 @@ You may contact the Author on the gaming discord (https://discord.gg/UDu5ztY), c
 Documentation may change so ill just post a link to the live version.
 https://bliss-box.net/integration/
 
-The schematics to the BlisSTer board are also included for anyone who wishes to make there own boareds. Bliss-Box chips can be purchased preflashed or with bootloaders only from Bliss-Box. 
+The schematics to the BlisSTer board are also included for anyone who wishes to make thier own boareds. Bliss-Box chips can be purchased preflashed or with bootloaders only from Bliss-Box. Bliss-Box does not have gerber files as the works was done via the factory. A reqest to obtain them is in.
 
