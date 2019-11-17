@@ -13,3 +13,7 @@ https://bliss-box.net/integration/
 
 The schematics to the BlisSTer board are also included for anyone who wishes to make thier own boareds. Bliss-Box chips can be purchased preflashed or with bootloaders only from Bliss-Box. Bliss-Box does not have gerber files as the works was done via the factory. A reqest to obtain them is in.
 
+Cable pins out are here 
+https://docs.google.com/spreadsheets/d/1plzOQtVNC6zbs1Rfle_4Kdc9dmBwd9eQmhM2iDsm_eU/edit?usp=sharing
+
+
