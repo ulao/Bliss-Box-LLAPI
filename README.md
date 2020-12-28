@@ -8,7 +8,7 @@ Two projects use this code thus far. Bliss-Box adaptors found at https://bliss-b
 
 You may contact the Author on the gaming discord (https://discord.gg/UDu5ztY), company page (https://Bliss-Box.net), or email (marked out for spam).  Should anything be needed please let one us know. 
 
-Documentation may change so ill just post a link to the live version.
+Documentation may change so i'll just post a link to the live version.
 https://bliss-box.net/integration/
 
 The schematics to the BlisSTer board are also included for anyone who wishes to make thier own boareds. Bliss-Box chips can be purchased preflashed from Bliss-Box or use a ATMEGA328 chip and flash the the firmware to it You will lose the update ability). Bliss-Box does not have gerber files as the work was done via the factory. 
